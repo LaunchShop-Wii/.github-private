@@ -1,0 +1,21 @@
+> [!IMPORTANT]
+> You should not leak anything from this organization. We are not **open-source**. If we think a little we might release our stuff.
+
+# LaunchShop Organization
+
+*This is a private repository that is used by LaunchShop admins. If you are an admin, feel free to edit a repository if there's a bug or a problem in there.*
+
+![Home page of the organization](https://github.com/LaunchShop-Wii/.github-private/assets/118364011/5be7e1b9-3e06-40a8-9d10-5f87875db156)
+
+## Here's what you can do:
+ 1. **Swear.** This is a private organization anyway. If you are angry, you must be a little hungry! Just kidding, if you are tired of a error in a code just make a issue or do a commit and swear all you want on the description.
+ 2. **Share test code.** Made something (for LaunchShop) and not sure if it works? Ping staff and give them a link to repo, and let them try it. ***ALL OF THIS SHOULD BE TESTED ON A VIRTUAL MACHINE.***
+ 3. **Collaborate.** It's more fun that way!
+
+## Stylesheet
+> Not done yet. Remind me later to finish this!
+
+
+
+`-` fin
+
