@@ -11,10 +11,10 @@
  1. **Swear.** This is a private organization anyway. If you are angry, you must be a little hungry! Just kidding, if you are tired of a error in a code just make a issue or do a commit and swear all you want on the description.
  2. **Share test code.** Made something (for LaunchShop) and not sure if it works? Ping staff and give them a link to repo, and let them try it. ***ALL OF THIS SHOULD BE TESTED ON A VIRTUAL MACHINE.***
  3. **Collaborate.** It's more fun that way!
+ 4. **Send prototypes.** Archive old versions here, even the ones that should not be seen here.
 
-## Stylesheet
-> Not done yet. Remind me later to finish this!
-
+> [!NOTE]
+> Test WADs and homebrew apps on a EmuNAND as well. Backup your Wii NAND, import it to your Dolphin installation and done. Please don't sexually abuse Mii :<
 
 
 `-` fin
