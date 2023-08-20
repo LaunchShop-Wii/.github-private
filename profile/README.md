@@ -1,5 +1,5 @@
-> [!IMPORTANT]
-> You should not leak anything from this organization. We are not **open-source**. If we think a little we might release our stuff.
+> [!WARNING]
+> You should not leak anything from this organization. If we go open-source, exclude any CDN mentions about any Nintendo game.
 
 # LaunchShop Organization
 
