@@ -1,4 +1,7 @@
-> [!WARNING]
+> [!CAUTION]
+> **This organizaion has been become public since January 16, 2024. We aren't your buddies if you will say that this is "your organization". All owned by fin, admin-panel repository by Luca. (retired)**
+
+> [!IMPORTANT]
 > You should not leak anything from this organization. If we go open-source, exclude any CDN mentions about any Nintendo game.
 
 # LaunchShop Organization
@@ -13,8 +16,7 @@
  3. **Collaborate.** It's more fun that way!
  4. **Send prototypes.** Archive old versions here, even the ones that should not be seen here.
 
-> [!NOTE]
-> Test WADs and homebrew apps on a EmuNAND as well. Backup your Wii NAND, import it to your Dolphin installation and done. Please don't sexually abuse Mii :<
+ Test WADs and homebrew apps on a EmuNAND as well or use your **real NAND on Dolphin**.
 
 
 `-` fin
